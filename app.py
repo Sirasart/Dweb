@@ -63,9 +63,9 @@ def display_files_in_category(category_key, is_admin=False):
 
 
 # --- หน้าเว็บแอปหลัก ---
-st.set_page_config(page_title="Minecraft Pack Hub", page_icon="⛏️", layout="wide")
+st.set_page_config(page_title="UtopiaHub", page_icon="⛏️", layout="wide")
 
-st.title("⛏️ Minecraft Pack & File Hub")
+st.title("⛏️ Utopia File Hub")
 st.markdown("ศูนย์กลางสำหรับดาวน์โหลด Modpacks และไฟล์ต่างๆ ที่เกี่ยวข้อง")
 
 # --- การจัดการสถานะล็อกอินและ Admin ---
